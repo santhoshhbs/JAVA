@@ -1,0 +1,3 @@
+# JAVA
+.........................this is read me section.............. 
+this is my first repository in java
